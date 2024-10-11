@@ -183,7 +183,7 @@ git checkout 272f4ad
 ## Author
 
 - Github - [Thiago Ando de Freitas](https://github.com/ThiagoAndo)
-- Personal website - [Portifolio](https://thiago-freitas-portfolio-1goxyzlnn.vercel.app/)
+- Personal website - [Portifolio](https://thiago-freitas-portfolio.vercel.app/)
 - Alive Website - [rest-countries-api](https://rest-mult-api.netlify.app)
 
 <hr />
