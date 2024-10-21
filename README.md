@@ -19,7 +19,6 @@ I hope you enjoy using the app as much as I enjoyed building it, and that you're
   - [Screenshot](#screenshot)
 - [Local development](#local-development)
   - [Instructions](#instructions)
-  - [Test](#🧪-test)
 - [Author and alive web site links](#author)
 
 ## Overview
